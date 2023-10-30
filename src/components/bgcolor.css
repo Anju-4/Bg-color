@@ -1,0 +1,13 @@
+.colors div{
+    border: 1px solid;
+    margin-left: 18px;
+    width: 80px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+
+}
+.Yellow{
+    background-color: yellow;
+}
